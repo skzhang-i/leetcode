@@ -9,3 +9,7 @@
 |2020-07-12|BestTimeStock.h|Algo #121. Similar to #53.|
 |2020-07-12|BestTimeStock2.h|Algo #122. Another easy one.|
 |2020-07-12|Sqrtx.h|Algo #69. Binary search. Faster than 100%.|
+|2020-07-13|LongestCommonPrefix.h|#14 The detail matters. Using iterator to see if we meet an end.|
+|2020-07-13|ImplementStrStr.h|#28 Brute force. Stupid but simple. |
+|2020-07-13|Powxn.h|#50 Recursive method. Write it correctly!|
+|2020-07-13|ReverseInteger.h|#7 Don't use compiler features! [Review](https://leetcode.com/problems/reverse-integer/)|
