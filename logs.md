@@ -13,3 +13,6 @@
 |2020-07-13|ImplementStrStr.h|#28 Brute force. Stupid but simple. |
 |2020-07-13|Powxn.h|#50 Recursive method. Write it correctly!|
 |2020-07-13|ReverseInteger.h|#7 Don't use compiler features! [Review](https://leetcode.com/problems/reverse-integer/)|
+|2020-07-14|DivideTwoIntegers.h|#29 Using bit operations but slow. Maybe I should see if I can improve it someday. [Review](https://leetcode.com/problems/divide-two-integers/)|
+|2020-07-14|PlusOne.h|#66 Easy.|
+|2020-07-14|ClimbingStairs.h|#70 It's a Fibonacci sequence problem. Don't use recursive method. It's slow!|
