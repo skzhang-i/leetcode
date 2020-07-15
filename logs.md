@@ -16,3 +16,5 @@
 |2020-07-14|DivideTwoIntegers.h|#29 Using bit operations but slow. Maybe I should see if I can improve it someday. [Review](https://leetcode.com/problems/divide-two-integers/)|
 |2020-07-14|PlusOne.h|#66 Easy.|
 |2020-07-14|ClimbingStairs.h|#70 It's a Fibonacci sequence problem. Don't use recursive method. It's slow!|
+|2020-07-15|CountPrime.h|#204 Slow.|
+|2020-07-15|ReverseString.h|#344 Very easy.|
