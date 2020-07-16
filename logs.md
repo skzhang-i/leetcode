@@ -18,3 +18,7 @@
 |2020-07-14|ClimbingStairs.h|#70 It's a Fibonacci sequence problem. Don't use recursive method. It's slow!|
 |2020-07-15|CountPrime.h|#204 Slow.|
 |2020-07-15|ReverseString.h|#344 Very easy.|
+|2020-07-16|FizzBuzz.h|#412 Very easy.|
+|2020-07-16|SumofTwoIntegers.h|#371 Bit operations. Again, the leetcode complier is strict.|
+|2020-07-16|MoveZeroes.h|#283 The use of iterator.|
+|2020-07-16|PowerofThree.h|#326 It's like a code cold joke.|
