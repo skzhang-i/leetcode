@@ -22,3 +22,4 @@
 |2020-07-16|SumofTwoIntegers.h|#371 Bit operations. Again, the leetcode complier is strict.|
 |2020-07-16|MoveZeroes.h|#283 The use of iterator.|
 |2020-07-16|PowerofThree.h|#326 It's like a code cold joke.|
+|2020-07-17|SortColors.h|#75 Put 0 to the left and 2 to the right. Make sure you have already checked every element.|
