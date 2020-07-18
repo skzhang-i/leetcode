@@ -23,3 +23,8 @@
 |2020-07-16|MoveZeroes.h|#283 The use of iterator.|
 |2020-07-16|PowerofThree.h|#326 It's like a code cold joke.|
 |2020-07-17|SortColors.h|#75 Put 0 to the left and 2 to the right. Make sure you have already checked every element.|
+|2020-07-18|JumpGame.h|#55 I thought for a moment. Pretty easy, after you did it.|
+|2020-07-18|UniquePaths.h|#62 Using additional space to store result to avoid calculating again.|
+|2020-07-18|Numberof1Bits.h|#191 Bit operations. There's a wicked method, by using bitset.count().|
+|2020-07-18|ReverseBits.h|#190 Using bitset.|
+|2020-07-18|ContainsDuplicate.h|#217 I tried a lot of methods, finding it's hard to improve the time cost(56ms). [Review](https://leetcode.com/problems/contains-duplicate/)|
