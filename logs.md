@@ -33,3 +33,7 @@
 |07-20|ValidAnagram.h|#242 Very easy.|
 |07-20|MissingNumber.h|#268 Very easy. Calculate the sum of numbers bewteen 0 and n, then subtract the numbers in the vector.|
 |07-20|IntersectionofTwoArrays2.h|#350 A little bit slow.|
+|07-26|RomantoInteger.h|#13 Easy with recursive method.|
+|07-26|RemoveDuplicatesfromSortedArray.h|#26 Easy.|
+|07-26|CountandSay.h|#38 Easy. Though I can't understand the description for a while.|
+|07-26|MergeSortedArray.h|#88 Easy problem, hard coding. It made my thought fall into chaos several times. [Review](https://leetcode.com/problems/merge-sorted-array/)|
