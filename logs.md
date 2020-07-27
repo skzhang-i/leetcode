@@ -37,3 +37,6 @@
 |07-26|RemoveDuplicatesfromSortedArray.h|#26 Easy.|
 |07-26|CountandSay.h|#38 Easy. Though I can't understand the description for a while.|
 |07-26|MergeSortedArray.h|#88 Easy problem, hard coding. It made my thought fall into chaos several times. [Review](https://leetcode.com/problems/merge-sorted-array/)|
+|07-27|PascalTriangle.h|#118 Easy.|
+|07-27|SingleNumber.h|#136 It can be done by bit operations.|
+|07-27|ValidPalindrome.h|#125 Beware of out of bound errors.|
