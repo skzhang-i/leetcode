@@ -40,3 +40,5 @@
 |07-27|PascalTriangle.h|#118 Easy.|
 |07-27|SingleNumber.h|#136 It can be done by bit operations.|
 |07-27|ValidPalindrome.h|#125 Beware of out of bound errors.|
+|07-29|ExcelSheetColumnNumber.h|#171 Very easy.|
+|07-29|FactorialTrailingZeroes.h|#172 Very easy.|
