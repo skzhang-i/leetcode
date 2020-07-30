@@ -42,3 +42,5 @@
 |07-27|ValidPalindrome.h|#125 Beware of out of bound errors.|
 |07-29|ExcelSheetColumnNumber.h|#171 Very easy.|
 |07-29|FactorialTrailingZeroes.h|#172 Very easy.|
+|07-30|HappyNumber.h|#202 Easy.|
+|07-30|RotateArray.h|#189 A little bit hard to think.|
