@@ -44,3 +44,4 @@
 |07-29|FactorialTrailingZeroes.h|#172 Very easy.|
 |07-30|HappyNumber.h|#202 Easy.|
 |07-30|RotateArray.h|#189 A little bit hard to think.|
+|07-31|HouseRobber.h|#198 My first DP problem. Took me some time to think.|
